@@ -19,7 +19,7 @@ Inside vim type
 2. :BundleInstall (Install Plugin)
 ```
 
-We use Vundle as  plugin manager to install externam plugin
+We use [Vundle](https://github.com/VundleVim/Vundle.vim) as  plugin manager to install externam plugin
 
 ## Features
 
@@ -41,3 +41,9 @@ Compiling YCM with semantic support for C-family languages through libclang:
 ./install.py --clang-completer
 ```
 More information available [here (Compiling YCM)](https://github.com/ycm-core/YouCompleteMe#linux-64-bit)
+
+## Extra references
+
+*[Vim and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+*[Install YouCompleteMe](http://unixnme.blogspot.com/2017/03/how-to-install-youcompleteme-vim-plugin.html)
+*[Compile YouCompleteMe](https://github.com/ycm-core/YouCompleteMe#linux-64-bit)
