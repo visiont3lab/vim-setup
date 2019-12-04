@@ -1,4 +1,4 @@
-# Vim Setup with plugin
+# Vim Setup with plugins
 
 [Interesting Tutorial](https://www.youtube.com/watch?v=_nMYsEMKvD0)
 [Vim Cheet Shet](https://vim.rtorr.com/)
