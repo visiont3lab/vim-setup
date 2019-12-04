@@ -5,7 +5,7 @@
 
 Setup vimrc file
 ```shell
-cd vim-setp && \
+cd vim-setup && \
 cp vimrc $HOME/.vimrc
 ```
 
